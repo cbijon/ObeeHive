@@ -28,7 +28,7 @@ To use this code, you will need the following hardware:
 
 2. Install the required libraries by following the library installation instructions in the Arduino IDE or PlatformIO.
 
-3. Open the Arduino sketch (`Beehive_Monitoring_CubeCell.ino`) in your preferred Arduino development environment.
+3. Open the Arduino sketch (`ObeeHive.ino.cpp`) in your preferred Arduino development environment.
 
 4. Configure the LoRaWAN parameters, sensor settings, and other variables to suit your setup and preferences.
 
